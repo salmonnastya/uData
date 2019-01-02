@@ -8,12 +8,6 @@
 Минимальная разность весов двух куч.
 Ограничения: время - 1 секунда, память - 64 Мб
 """
-# Anastasiia Pirus
-# Pavel Tyshevskyi
-# Tanya Lelux
-# Pavel Krasnopolskiy
-# Mykola Robotyshyn 
-# Maksym Vasylenko
 
 def read_input():
     n = int(input())
